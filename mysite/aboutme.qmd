@@ -1,0 +1,40 @@
+---
+title: "About Me"
+format: html
+---
+
+# Welcome to My Portfolio!
+
+---
+
+### 👤 **Profile Photo**
+![**Cassie Lu**](AboutMe.png){width=180px}
+
+---
+
+# **About Me**
+
+
+Hi, I’m **Cassie L. Lu**. I'm currently pursuing my **Master’s in Applied Business Analytics** at **Boston University (2024–2026)**. Here, I'm learning advanced skills in data analysis, visualization, and business decision-making.
+
+
+Before joining BU, I earned a **Bachelor’s degree in French Language and Literature** from **Xianda College, Shanghai International Studies University (2020–2024)**. My studies gave me strong analytical abilities, language skills, and cross-cultural understanding.
+
+
+During college, I worked remotely as a **Data Analyst** for **Rishun Industry & Trade Co. (2021–2024)**. I used Python, Excel, and Tableau to analyze data, build dashboards, and support business decisions. This improved inventory management and helped the company operate more efficiently.
+
+
+Later, I interned at **Moncler Group’s APAC Headquarters (2023–2024)** in Shanghai. I helped analyze sales data and manage inventory reports for stores across Greater China. This experience taught me how data supports strategic decisions in global retail businesses.
+
+
+Currently, I’m also serving as a **Teaching Assistant at Boston University**, where I guide students in understanding analytics concepts and tools like Power BI and Excel.
+
+
+I'm excited to continue growing my skills in data analytics and business strategy. I aim to use data-driven insights to help organizations make smarter, more effective decisions.
+
+
+Please feel free to connect with me via LinkedIn:[Know me on LinkedIn](https://www.linkedin.com/in/cassie-lu-3b07b5340/){.btn .btn-primary} or email me at (cassielu@bu.edu)
+
+---
+
+
