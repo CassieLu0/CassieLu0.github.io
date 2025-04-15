@@ -4,10 +4,10 @@ format: html
 description: "My collection of analytics projects"
 ---
 
-# Projects Showcase
 
------
-🌐 **Web Analytics and Development (AD688 Project)**
+
+## 📊**Web Analytics and Development (AD688 Project)**
+
 
 **Course:** Web Analytics for Business (AD688), Boston University  
 **Type:** Personal Project
@@ -16,15 +16,16 @@ description: "My collection of analytics projects"
 Developed websites using GitHub, Visual Studio Code, and Quarto to analyze datasets and present data-driven insights interactively on the web.
 
 📊 **What I Did**
-- Built and deployed websites leveraging GitHub Pages for web hosting.
-- Used Visual Studio Code and Quarto to structure and publish web-based analytics reports.
-- Performed comprehensive data analysis with Python and SQL to interpret datasets effectively.
-- Clearly presented data findings and interpretations through interactive and accessible web pages.
+
+-Built and deployed websites leveraging GitHub Pages for web hosting.
+-Used Visual Studio Code and Quarto to structure and publish web-based analytics reports.
+-Performed comprehensive data analysis with Python and SQL to interpret datasets effectively.
+-Clearly presented data findings and interpretations through interactive and accessible web pages.
 
 🛠️ **Tools & Techniques**
-- Web Development: GitHub Pages, Visual Studio Code, Quarto
-- Programming: Python, SQL
-- Data visualization and interactive web reporting
+Web Development: GitHub Pages, Visual Studio Code, Quarto
+Programming: Python, SQL
+Data visualization and interactive web reporting
 
 🔗 **View my Work**
 - [GitHub Portfolio](https://github.com/CassieLu0)
@@ -53,6 +54,37 @@ Built **iREOPS**, an optimization model to help real estate companies predict ma
 - Enhanced investment decision-making capabilities through data-driven insights.
 - Improved accuracy of resource allocation strategies, identifying high-potential real estate investments.
 
+### 📸 **Project Visual**
+
+#### **Model Process of iREOPS**
+
+```{=html}
+
+<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel" style="max-width: 800px; margin: auto;">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="iREOPS_Process1.png" class="d-block w-100" alt="iREOPS Slide 1">
+    </div>
+    <div class="carousel-item">
+      <img src="iREOPS_Process2.png" class="d-block w-100" alt="iREOPS Slide 2">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+
+```
 -----
 
 ## 🍺 **Brewery Tavern Expansion Analysis (AD715 Team Project)**
