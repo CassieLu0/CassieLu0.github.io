@@ -1,9 +1,9 @@
 project:
   type: website
-    output-dir: docs
+  output-dir: ../docs
 
 website:
-  title: "my-website"
+  title: "Cassie Lu Portfolio"
   navbar:
     left:
       - text: "About Me"
